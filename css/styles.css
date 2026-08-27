@@ -709,7 +709,7 @@ nav {
 }
 
 .arrow:disabled {
-  background-color: rgb(255, 176.7172774869, 166);
+  background-color: #ffb1a6;
   cursor: not-allowed;
 }
 
